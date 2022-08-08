@@ -1,8 +1,8 @@
-Creat a project file
+1. Creat a project file
     Mkdir <filename>
 
-Enter the project filename
+2. Enter the project filename
     cd <filename>
 
-Initialize the file
+3. Initialize the file
     git init
